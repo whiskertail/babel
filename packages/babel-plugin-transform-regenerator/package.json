@@ -11,7 +11,7 @@
   },
   "main": "./lib/index.js",
   "dependencies": {
-    "regenerator-transform": "^0.14.2"
+    "regenerator-transform": "^0.14.5"
   },
   "license": "MIT",
   "publishConfig": {
